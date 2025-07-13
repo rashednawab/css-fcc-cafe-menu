@@ -7,6 +7,7 @@ h1, h2{
 }
 h1{
     font-size: 40px;
+    margin-top: 0px;
 }
 
 h2{
@@ -62,4 +63,25 @@ hr{
 
 .bottom-line{
     margin-top: 25px;
+}
+
+/* FOOTER */
+footer{
+    font-size: 14px;
+}
+
+a{
+    color: black;
+}
+
+a:visited{
+    color: grey;
+}
+
+a:hover{
+    color: brown;
+}
+
+a:active{
+    color:white
 }
